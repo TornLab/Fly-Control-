@@ -1,0 +1,24 @@
+# FLY CONTROL - Complete Python Dependencies
+# Covers the original project modules, including voice control,
+# keyboard control, computer vision, object recognition, and Tello control.
+
+# DJI Tello control
+djitellopy
+easytello
+
+# Computer vision / object recognition
+opencv-python
+numpy
+
+# Terminal UI / ASCII art
+colorama
+art
+
+# Keyboard control
+keyboard
+
+# Voice control + microphone support
+SpeechRecognition[audio]
+
+# Optional notification sound used by some project versions
+beepy
